@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = aeorsyn@gmail.com
+	name = aeorsyn
+[remote "origin"]
+	url = https://github.com/aeorsyn/riemann-hypothesis.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
